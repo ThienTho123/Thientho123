@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity, C, C#, C++**
 
-- 📫 How to reach me **thientho7a4@gmail.com**
+- 📫 How to contact me **thientho.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
