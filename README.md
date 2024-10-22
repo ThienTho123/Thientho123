@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1618928913493/OkxZz8Ti0.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=FFF1DB&center=true&vCenter=true&width=1200&height=100&lines=Hello+hello%F0%9F%91%8B;I'm+Thi%E1%BB%87n+Th%E1%BB%8D)](https://git.io/typing-svg)
 <h3 align="center">A passionate developer from Viet Nam</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b7611a4phqds3zar4nhuk83zm4nq9oikf8wcxt49zyrjd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif?cid=790b7611a4phqds3zar4nhuk83zm4nq9oikf8wcxt49zyrjd&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thientho123&label=Profile%20views&color=0e75b6&style=flat" alt="thientho123" /> </p>
 
 <p align="left"> <a href="https://twitter.com/izumi___2205" target="blank"><img src="https://img.shields.io/twitter/follow/izumi___2205?logo=twitter&style=for-the-badge" alt="izumi___2205" /></a> </p>
@@ -38,7 +38,7 @@
 
 
 <div align="center">
-  <img alt="Coding" width="800" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtd2praGUzbTZlcmU4dnk5dzd1OGFuYjRiMjJ0bTRtdGE2NXp5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S5L3aOgVqbzhK/giphy.gif">
+  <img alt="Coding" width="600" height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGVtd2praGUzbTZlcmU4dnk5dzd1OGFuYjRiMjJ0bTRtdGE2NXp5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/S5L3aOgVqbzhK/giphy.gif">
 </div>
 
 </div>
